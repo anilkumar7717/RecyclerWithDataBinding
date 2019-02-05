@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">RecyclerWithDataBinding</string>
+
+    <string-array name="name">
+        <item>Rupesh</item>
+        <item>Mahesh</item>
+        <item>Mohit</item>
+        <item>Rohit</item>
+        <item>Sachin</item>
+        <item>Rahul</item>
+        <item>Ravinder</item>
+        <item>Pardeep</item>
+        <item>John</item>
+        <item>Suresh</item>
+        <item>Mahesh</item>
+        <item>Raghav</item>
+        <item>Sunny</item>
+        <item>Maven</item>
+        <item>Jonny</item>
+        <item>Javed</item>
+        <item>Ahmad</item>
+    </string-array>
+
+    <string-array name="emails">
+        <item>Rupesh@gmail.com</item>
+        <item>Mahesh@gmail.com</item>
+        <item>Mohit@gmail.com</item>
+        <item>Rohit@gmail.com</item>
+        <item>Sachin@gmail.com</item>
+        <item>Ravinder@gmail.com</item>
+        <item>Pardeep@gmail.com</item>
+        <item>John@gmail.com</item>
+        <item>Suresh@gmail.com</item>
+        <item>Mahesh@gmail.com</item>
+        <item>Raghav@gmail.com</item>
+        <item>Sunny@gmail.com</item>
+        <item>Maven@gmail.com</item>
+        <item>Jonny@gmail.com</item>
+        <item>Javed@gmail.com</item>
+        <item>Ahmad@gmail.com</item>
+        <item>Mahesh@gmail.com</item>
+    </string-array>
+</resources>
